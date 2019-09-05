@@ -9,3 +9,13 @@
 {
   position: inherit;
 }
+
+ #images
+ {
+   align-content: center;
+ }
+
+.mimi
+{
+  background-color: indigo;
+}
